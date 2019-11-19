@@ -1,0 +1,9 @@
+#Menghapus Semua Tile & All Apps Start Menu
+Pertama buka Windows RUN (WinKey + R), lalu 
+ketikan %ProgramData%\Microsoft\Windows\Start Menu\Programs
+
+# setting python di git bash
+on the root ~ atau /user/hadi
+touch .bashrc
+subl . # buka dengan sublime-text3
+ketik:   alias python='winpty python.exe'
