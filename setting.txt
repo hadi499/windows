@@ -7,3 +7,18 @@ on the root ~ atau /user/hadi
 touch .bashrc
 subl . # buka dengan sublime-text3
 ketik:   alias python='winpty python.exe'
+
+
+#virtual env di windows
+python -m venv Env
+
+# activate env
+#CMD
+Env\Scripts\activate
+deactivate
+
+#GIT BASH
+cd Env
+cd Scripts
+. activate
+deactivate
