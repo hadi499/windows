@@ -22,3 +22,6 @@ cd Env
 cd Scripts
 . activate
 deactivate
+
+# install pip dari requirements.txt
+pip install -r requirements.txt
