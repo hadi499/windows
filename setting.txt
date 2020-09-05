@@ -2,7 +2,8 @@
 Pertama buka Windows RUN (WinKey + R), lalu 
 ketikan %ProgramData%\Microsoft\Windows\Start Menu\Programs
 
-#shutdown dan restart lewat cmd
+#command cmd pada waktu install ulang
+tekan SHIFT + F10
 wpeutil reboot
 wpeutil shutdown
 
