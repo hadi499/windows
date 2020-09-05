@@ -2,6 +2,10 @@
 Pertama buka Windows RUN (WinKey + R), lalu 
 ketikan %ProgramData%\Microsoft\Windows\Start Menu\Programs
 
+#shutdown dan restart lewat cmd
+wpeutil reboot
+wpeutil shutdown
+
 # setting python di git bash
 on the root ~ atau /user/hadi
 touch .bashrc
