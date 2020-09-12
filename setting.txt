@@ -1,3 +1,7 @@
+#The file or directory is corrupted and unreadable. di usb
+buka cmd as administrator
+chkdsk /f f: ( nama )drive usb
+
 #Menghapus Semua Tile & All Apps Start Menu
 Pertama buka Windows RUN (WinKey + R), lalu 
 ketikan %ProgramData%\Microsoft\Windows\Start Menu\Programs
