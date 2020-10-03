@@ -1,8 +1,8 @@
-buka disk management
-delete partisi linux
-format ke new volume
-buka cmd as administrator
-ketik diskpart
+Buka disk management
+Delete partisi linux
+Format ke new volume
+Buka cmd as administrator
+Ketik diskpart
 DISKPART > list disk
 DISKPART > list volume
 DISKPART >select volume 0 [ tempat system EFI ] ratusan mb 
