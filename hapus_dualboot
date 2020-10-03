@@ -1,0 +1,16 @@
+buka disk management
+delete partisi linux
+format ke new volume
+buka cmd as administrator
+ketik diskpart
+DISKPART > list disk
+DISKPART > list volume
+DISKPART >select volume 0 [ tempat system EFI ] ratusan mb 
+DISKPART >assign letter=z
+DISKPART > exit
+C:\Windows\system32> z:
+Z:\> dir
+Z:\> cd EFI
+Z:\EFI> rmdir /S kali [nama folder linux]
+exit
+restart
