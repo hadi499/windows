@@ -5,8 +5,8 @@ Buka cmd as administrator
 Ketik diskpart
 DISKPART > list disk
 DISKPART > list volume
-DISKPART >select volume 0 [ tempat system EFI ] ratusan mb 
-DISKPART >assign letter=z
+DISKPART > select volume 1 [ tempat system EFI ] ratusan mb 
+DISKPART > assign letter=z
 DISKPART > exit
 C:\Windows\system32> z:
 Z:\> dir
