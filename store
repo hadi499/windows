@@ -1,6 +1,15 @@
+akun microsof store tidak bisa download.
+
+login ke microsoft store via web -> add device
+start -> setting -> account -> login ke microsoft store
+
+
 wsreset.exe
 wmic useraccount get name,sid
 
 regedit
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore
 hapus folder akun hadi
+
+
+link https://teknosentrik.com/microsoft-store-tidak-bisa-download-dan-update-aplikasi/
