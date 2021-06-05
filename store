@@ -1,0 +1,6 @@
+wsreset.exe
+wmic useraccount get name,sid
+
+regedit
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore
+hapus folder akun hadi
