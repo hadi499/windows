@@ -1,0 +1,4 @@
+buka Command Prompt (CMD)
+ketik  powercfg /batteryreport
+
+Maka, akan muncul pemberitahuan posisi file yang isinya sebuah pemberitahuan mengenai hasil dari pengecekan (kesehatan) baterai Laptop Anda
